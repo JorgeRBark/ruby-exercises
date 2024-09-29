@@ -15,7 +15,6 @@ end
 
 def divide(a, b)
   # return the result of dividing a by b
-
   a / b
 end
 
